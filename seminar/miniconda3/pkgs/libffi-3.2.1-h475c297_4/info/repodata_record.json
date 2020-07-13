@@ -1,0 +1,23 @@
+{
+  "build": "h475c297_4",
+  "build_number": 4,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
+  "constrains": [],
+  "depends": [
+    "libcxx >=4.0.1"
+  ],
+  "features": "",
+  "fn": "libffi-3.2.1-h475c297_4.conda",
+  "legacy_bz2_md5": "4b13e6ff2ef114361106e5780296a5eb",
+  "legacy_bz2_size": 41085,
+  "license": "Custom",
+  "md5": "2099939ac68dc92937bbeb315411d185",
+  "name": "libffi",
+  "sha256": "178e13f97f484263beb454a77e87adcb1133141639342c58a2cf6cec40323d5a",
+  "size": 37464,
+  "subdir": "osx-64",
+  "timestamp": 1510177287824,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-64/libffi-3.2.1-h475c297_4.conda",
+  "version": "3.2.1"
+}

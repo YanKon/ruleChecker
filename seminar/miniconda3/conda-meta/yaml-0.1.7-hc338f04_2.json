@@ -1,0 +1,59 @@
+{
+  "build": "hc338f04_2",
+  "build_number": 2,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
+  "constrains": [],
+  "depends": [],
+  "extracted_package_dir": "/Users/yannick/Developer/seminar/miniconda3/pkgs/yaml-0.1.7-hc338f04_2",
+  "features": "",
+  "files": [
+    "include/yaml.h",
+    "lib/libyaml-0.2.dylib",
+    "lib/libyaml.a",
+    "lib/libyaml.dylib",
+    "lib/libyaml.la",
+    "lib/pkgconfig/yaml-0.1.pc"
+  ],
+  "fn": "yaml-0.1.7-hc338f04_2.conda",
+  "legacy_bz2_md5": "dab654341f57e56b615a678800262b0e",
+  "legacy_bz2_size": 82035,
+  "license": "MIT",
+  "link": {
+    "source": "/Users/yannick/Developer/seminar/miniconda3/pkgs/yaml-0.1.7-hc338f04_2",
+    "type": 1
+  },
+  "md5": "b81de17ef79a83c497d0128e37461ae2",
+  "name": "yaml",
+  "package_tarball_full_path": "/Users/yannick/Developer/seminar/miniconda3/pkgs/yaml-0.1.7-hc338f04_2.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/libyaml.la",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "4ae4be06b8c06e353890f91a72aa9e6c14996b8b75cf4bb03d9088382c93d3a2",
+        "sha256_in_prefix": "0ddf0fdd90ba446d498ddee4b3b0fe74b85411428d65f518962776320459457b",
+        "size_in_bytes": 960
+      },
+      {
+        "_path": "lib/pkgconfig/yaml-0.1.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "c3949fda489ec0b8056cd54a203e3355fa2dadd9c157c71ba9d24d4b509e8e52",
+        "sha256_in_prefix": "8620d59220b79cbcf171d15cb7bff372424da56720e143081f19587a403c78f4",
+        "size_in_bytes": 224
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "yaml==0.1.7=hc338f04_2",
+  "sha256": "d1aaa7fba4215935537f19f217071bbb8ad75b7244220272ed59f159db0d972e",
+  "size": 68226,
+  "subdir": "osx-64",
+  "timestamp": 1510610700770,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-64/yaml-0.1.7-hc338f04_2.conda",
+  "version": "0.1.7"
+}

@@ -1,0 +1,12 @@
+{
+  "CONDA_BUILD_SYSROOT": "/opt/MacOSX10.10.sdk",
+  "libffi": "3.2",
+  "sqlite": "3",
+  "bzip2": "1.0",
+  "tk": "8.6",
+  "openssl": "1.1.1",
+  "cxx_compiler": "clangxx",
+  "c_compiler": "clang",
+  "zlib": "1.2",
+  "xz": "5"
+}

@@ -1,0 +1,23 @@
+{
+  "build": "h1de35cc_5",
+  "build_number": 5,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
+  "constrains": [],
+  "depends": [
+    "ncurses >=6.1,<7.0a0"
+  ],
+  "features": "",
+  "fn": "readline-7.0-h1de35cc_5.conda",
+  "legacy_bz2_md5": "e7e32610dc0b61aa5947789844175bbf",
+  "legacy_bz2_size": 402747,
+  "license": "GPL-3.0",
+  "md5": "2e427f7a248746a430be98e967bafd43",
+  "name": "readline",
+  "sha256": "aac7e9f6a3cb2781c38007533d7e8fa774e72102cef59c330ecf6031060bbd36",
+  "size": 323428,
+  "subdir": "osx-64",
+  "timestamp": 1535476075762,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-64/readline-7.0-h1de35cc_5.conda",
+  "version": "7.0"
+}

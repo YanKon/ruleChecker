@@ -1,0 +1,67 @@
+{
+  "build": "h475c297_4",
+  "build_number": 4,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
+  "constrains": [],
+  "depends": [
+    "libcxx >=4.0.1"
+  ],
+  "extracted_package_dir": "/Users/yannick/Developer/seminar/miniconda3/pkgs/libffi-3.2.1-h475c297_4",
+  "features": "",
+  "files": [
+    "include/ffi.h",
+    "include/ffitarget.h",
+    "lib/libffi.6.dylib",
+    "lib/libffi.a",
+    "lib/libffi.dylib",
+    "lib/libffi.la",
+    "lib/pkgconfig/libffi.pc",
+    "share/info/libffi.info",
+    "share/man/man3/ffi.3",
+    "share/man/man3/ffi_call.3",
+    "share/man/man3/ffi_prep_cif.3",
+    "share/man/man3/ffi_prep_cif_var.3"
+  ],
+  "fn": "libffi-3.2.1-h475c297_4.conda",
+  "legacy_bz2_md5": "4b13e6ff2ef114361106e5780296a5eb",
+  "legacy_bz2_size": 41085,
+  "license": "Custom",
+  "link": {
+    "source": "/Users/yannick/Developer/seminar/miniconda3/pkgs/libffi-3.2.1-h475c297_4",
+    "type": 1
+  },
+  "md5": "2099939ac68dc92937bbeb315411d185",
+  "name": "libffi",
+  "package_tarball_full_path": "/Users/yannick/Developer/seminar/miniconda3/pkgs/libffi-3.2.1-h475c297_4.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/libffi.la",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "ddd2989d3d661fdf003c0e484ba173eaa440a35f02e6895b4ec53cac447d554a",
+        "sha256_in_prefix": "2cd6831e7d84e4cba9de6cedba1bd7da11e086bb87fe47ff4b8872203016e3f2",
+        "size_in_bytes": 926
+      },
+      {
+        "_path": "lib/pkgconfig/libffi.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "54eef4fdfc30f5012226b4250443412aa26c94a4b73180090127aecbb242a9f2",
+        "sha256_in_prefix": "c3d1b57c02a12bcf0bb021d56756cacf72ad6410afdd6c5ea5df978e5d8b0c5e",
+        "size_in_bytes": 296
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "libffi==3.2.1=h475c297_4",
+  "sha256": "178e13f97f484263beb454a77e87adcb1133141639342c58a2cf6cec40323d5a",
+  "size": 37464,
+  "subdir": "osx-64",
+  "timestamp": 1510177287824,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-64/libffi-3.2.1-h475c297_4.conda",
+  "version": "3.2.1"
+}

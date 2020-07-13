@@ -1,0 +1,73 @@
+{
+  "build": "py37_10",
+  "build_number": 10,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.7,<3.8.0a0"
+  ],
+  "extracted_package_dir": "/Users/yannick/Developer/seminar/miniconda3/pkgs/python.app-2-py37_10",
+  "features": "",
+  "files": [
+    "bin/python.app",
+    "bin/pythonw",
+    "python.app/Contents/Info.plist",
+    "python.app/Contents/MacOS/python",
+    "python.app/Contents/PkgInfo",
+    "python.app/Contents/Resources/empty.lproj",
+    "python.app/Contents/Resources/qt_menu.nib/classes.nib",
+    "python.app/Contents/Resources/qt_menu.nib/info.nib",
+    "python.app/Contents/Resources/qt_menu.nib/keyedobjects.nib"
+  ],
+  "fn": "python.app-2-py37_10.conda",
+  "legacy_bz2_md5": "b35f05cd2a23d2d79d24b36ed327bc59",
+  "legacy_bz2_size": 1643414,
+  "license": "BSD",
+  "link": {
+    "source": "/Users/yannick/Developer/seminar/miniconda3/pkgs/python.app-2-py37_10",
+    "type": 1
+  },
+  "md5": "604b160dea4a0a07f2ffc9cb9023cc53",
+  "name": "python.app",
+  "package_tarball_full_path": "/Users/yannick/Developer/seminar/miniconda3/pkgs/python.app-2-py37_10.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "bin/python.app",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "3c7c258ec374e2c0cdd341b141ab5b1b0ef6cfcab5f0549c883bc49bdb1e6ec3",
+        "sha256_in_prefix": "dd64acd8eb1f219904d8a84ce1b9fa393ee5662668e30b981feb6597b59e1655",
+        "size_in_bytes": 151
+      },
+      {
+        "_path": "bin/pythonw",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "3c7c258ec374e2c0cdd341b141ab5b1b0ef6cfcab5f0549c883bc49bdb1e6ec3",
+        "sha256_in_prefix": "dd64acd8eb1f219904d8a84ce1b9fa393ee5662668e30b981feb6597b59e1655",
+        "size_in_bytes": 151
+      },
+      {
+        "_path": "python.app/Contents/MacOS/python",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/concourse/worker/volumes/live/ec7491a5-e890-4f09-4f87-513205e65bbd/volume/python.app_1583157297259/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac",
+        "sha256": "05a838d76a0f4e6cd4adf8ecbcfe61740eb9fba054188803ae979c42da9f4bbe",
+        "sha256_in_prefix": "46049a16dd0b489e4afe4dcdf8277ecf54b0b6016e6c92b110ba2468e9cba7f6",
+        "size_in_bytes": 4184052
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "python.app==2=py37_10",
+  "sha256": "13faeadddf868fa067660055054e68dfa07d80de1ac80b072403307889ac121a",
+  "size": 1506589,
+  "subdir": "osx-64",
+  "timestamp": 1583157361438,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-64/python.app-2-py37_10.conda",
+  "version": "2"
+}

@@ -1,0 +1,92 @@
+{
+  "build": "py37h1de35cc_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.7,<3.8.0a0",
+    "six",
+    "tqdm"
+  ],
+  "extracted_package_dir": "/Users/yannick/Developer/seminar/miniconda3/pkgs/conda-package-handling-1.6.0-py37h1de35cc_0",
+  "features": "",
+  "files": [
+    "bin/cph",
+    "lib/python3.7/site-packages/conda_package_handling-1.6.0.dist-info/AUTHORS.txt",
+    "lib/python3.7/site-packages/conda_package_handling-1.6.0.dist-info/INSTALLER",
+    "lib/python3.7/site-packages/conda_package_handling-1.6.0.dist-info/LICENSE",
+    "lib/python3.7/site-packages/conda_package_handling-1.6.0.dist-info/METADATA",
+    "lib/python3.7/site-packages/conda_package_handling-1.6.0.dist-info/RECORD",
+    "lib/python3.7/site-packages/conda_package_handling-1.6.0.dist-info/WHEEL",
+    "lib/python3.7/site-packages/conda_package_handling-1.6.0.dist-info/entry_points.txt",
+    "lib/python3.7/site-packages/conda_package_handling-1.6.0.dist-info/top_level.txt",
+    "lib/python3.7/site-packages/conda_package_handling/__init__.py",
+    "lib/python3.7/site-packages/conda_package_handling/__main__.py",
+    "lib/python3.7/site-packages/conda_package_handling/__pycache__/__init__.cpython-37.pyc",
+    "lib/python3.7/site-packages/conda_package_handling/__pycache__/__main__.cpython-37.pyc",
+    "lib/python3.7/site-packages/conda_package_handling/__pycache__/_version.cpython-37.pyc",
+    "lib/python3.7/site-packages/conda_package_handling/__pycache__/api.cpython-37.pyc",
+    "lib/python3.7/site-packages/conda_package_handling/__pycache__/archive_utils.cpython-37.pyc",
+    "lib/python3.7/site-packages/conda_package_handling/__pycache__/cli.cpython-37.pyc",
+    "lib/python3.7/site-packages/conda_package_handling/__pycache__/conda_fmt.cpython-37.pyc",
+    "lib/python3.7/site-packages/conda_package_handling/__pycache__/exceptions.cpython-37.pyc",
+    "lib/python3.7/site-packages/conda_package_handling/__pycache__/interface.cpython-37.pyc",
+    "lib/python3.7/site-packages/conda_package_handling/__pycache__/tarball.cpython-37.pyc",
+    "lib/python3.7/site-packages/conda_package_handling/__pycache__/utils.cpython-37.pyc",
+    "lib/python3.7/site-packages/conda_package_handling/__pycache__/validate.cpython-37.pyc",
+    "lib/python3.7/site-packages/conda_package_handling/_version.py",
+    "lib/python3.7/site-packages/conda_package_handling/api.py",
+    "lib/python3.7/site-packages/conda_package_handling/archive_utils.py",
+    "lib/python3.7/site-packages/conda_package_handling/archive_utils_cy.cpython-37m-darwin.so",
+    "lib/python3.7/site-packages/conda_package_handling/cli.py",
+    "lib/python3.7/site-packages/conda_package_handling/conda_fmt.py",
+    "lib/python3.7/site-packages/conda_package_handling/exceptions.py",
+    "lib/python3.7/site-packages/conda_package_handling/interface.py",
+    "lib/python3.7/site-packages/conda_package_handling/tarball.py",
+    "lib/python3.7/site-packages/conda_package_handling/utils.py",
+    "lib/python3.7/site-packages/conda_package_handling/validate.py"
+  ],
+  "fn": "conda-package-handling-1.6.0-py37h1de35cc_0.conda",
+  "legacy_bz2_md5": "d901dbb7b5fa2d1e0a2a663318619c11",
+  "legacy_bz2_size": 1496904,
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "/Users/yannick/Developer/seminar/miniconda3/pkgs/conda-package-handling-1.6.0-py37h1de35cc_0",
+    "type": 1
+  },
+  "md5": "aa384715579d8c1ad5e1ed50ccc22382",
+  "name": "conda-package-handling",
+  "package_tarball_full_path": "/Users/yannick/Developer/seminar/miniconda3/pkgs/conda-package-handling-1.6.0-py37h1de35cc_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "bin/cph",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "61be63474e2f8c237436d2cb2aeb0f3946dd5cc6bbca234c55bc6412536f5073",
+        "sha256_in_prefix": "a0dabb3a86acc17da9d17697d56b5329d340df70041cdc6af4c85017a56dc7cc",
+        "size_in_bytes": 256
+      },
+      {
+        "_path": "lib/python3.7/site-packages/conda_package_handling/archive_utils_cy.cpython-37m-darwin.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/concourse/worker/volumes/live/a8318fc0-dc0a-4d44-51cf-4dc4160f283e/volume/conda-package-handling_1569013402583/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl",
+        "sha256": "52c945a8ba9e2f302a10ef33da2616d0b03417682f7d9c84f2f13266a3bab58b",
+        "sha256_in_prefix": "64a7786ed6179cbf6396a8bf9ea0c8523718a005d78e70b0ae983719b272a6ee",
+        "size_in_bytes": 2039828
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "conda-package-handling==1.6.0=py37h1de35cc_0",
+  "sha256": "9be9cd3a5afbaecac4ae7f42f5205ef5563b7abb052b0022cea6f732926acbf5",
+  "size": 1379630,
+  "subdir": "osx-64",
+  "timestamp": 1569013562052,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-64/conda-package-handling-1.6.0-py37h1de35cc_0.conda",
+  "version": "1.6.0"
+}

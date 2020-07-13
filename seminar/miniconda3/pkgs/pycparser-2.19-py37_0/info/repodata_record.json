@@ -1,0 +1,24 @@
+{
+  "build": "py37_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.7,<3.8.0a0"
+  ],
+  "features": "",
+  "fn": "pycparser-2.19-py37_0.conda",
+  "legacy_bz2_md5": "1bcdc1ec5ab9cfdc4c06903e4539eab3",
+  "legacy_bz2_size": 175666,
+  "license": "BSD 3-clause",
+  "license_family": "BSD",
+  "md5": "2a3a575105bcbf79aa6d7fee7721c94f",
+  "name": "pycparser",
+  "sha256": "5d1785ae3208b583ba7ce772026977fad10bff4ea9081e687ba426dc01abff05",
+  "size": 174888,
+  "subdir": "osx-64",
+  "timestamp": 1538231099534,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-64/pycparser-2.19-py37_0.conda",
+  "version": "2.19"
+}

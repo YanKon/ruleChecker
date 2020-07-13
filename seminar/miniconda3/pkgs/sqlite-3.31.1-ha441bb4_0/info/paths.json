@@ -1,0 +1,53 @@
+{
+  "paths": [
+    {
+      "_path": "bin/sqlite3",
+      "file_mode": "binary",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/opt/concourse/worker/volumes/live/b3b403ac-7191-48bd-79bc-4695e7755b8f/volume/sqlite_1580839133921/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol",
+      "sha256": "53e8aac7ace0777bd20c949689220f532d07728735991ced2235e601f46f07b9",
+      "size_in_bytes": 1828740
+    },
+    {
+      "_path": "include/sqlite3.h",
+      "path_type": "hardlink",
+      "sha256": "970ce4c830c1ad22e511f6d975b7d45370c9ab78687f8a11c7b453ed9366fc8c",
+      "size_in_bytes": 576161
+    },
+    {
+      "_path": "include/sqlite3ext.h",
+      "path_type": "hardlink",
+      "sha256": "38440550b5c91babbec138ed82ee8b0761f74f408a16ccf9e9cc901f2d32959c",
+      "size_in_bytes": 34802
+    },
+    {
+      "_path": "lib/libsqlite3.0.dylib",
+      "file_mode": "binary",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/opt/concourse/worker/volumes/live/b3b403ac-7191-48bd-79bc-4695e7755b8f/volume/sqlite_1580839133921/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol",
+      "sha256": "a10ce5a01ae7e7aa16ee926c8bcad5d348cae67cd86a14b6946bf1d43f3a18d5",
+      "size_in_bytes": 1592688
+    },
+    {
+      "_path": "lib/libsqlite3.a",
+      "path_type": "hardlink",
+      "sha256": "c70ebc391f2decd9584af35d70a116fc04288d6ce48bf5d1fb5af11a5cec2c4c",
+      "size_in_bytes": 1961168
+    },
+    {
+      "_path": "lib/libsqlite3.dylib",
+      "path_type": "softlink",
+      "sha256": "a10ce5a01ae7e7aa16ee926c8bcad5d348cae67cd86a14b6946bf1d43f3a18d5",
+      "size_in_bytes": 1592688
+    },
+    {
+      "_path": "lib/pkgconfig/sqlite3.pc",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+      "sha256": "bb7a17d903695ffc42f7201400bf6063b636e5cf048920c76b4b8054d620019a",
+      "size_in_bytes": 289
+    }
+  ],
+  "paths_version": 1
+}
